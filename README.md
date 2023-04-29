@@ -21,10 +21,10 @@ Logo após ter clonado o script abra seu termina e execute o comando php index.p
 Se você quiser contribuir com o projeto, siga os passos abaixo:
 
 Faça um fork deste repositório.
-Crie uma branch com sua contribuição: git checkout -b minha-contribuicao.
-Faça as alterações necessárias e adicione os arquivos modificados: git add ..
-Faça um commit com suas alterações: git commit -m "minha contribuição".
-Envie suas alterações para o seu fork: git push origin minha-contribuicao.
+Crie uma branch com sua contribuição: git checkout -b minha-contribuicao.<br>
+Faça as alterações necessárias e adicione os arquivos modificados: git add .. <br>
+Faça um commit com suas alterações: git commit -m "minha contribuição". <br>
+Envie suas alterações para o seu fork: git push origin minha-contribuicao. <br>
 Crie um pull request neste repositório, explicando suas alterações.
 
 ## 📝 Licença
